@@ -1,0 +1,3 @@
+Sep 18 2025 23:15:35
+{"type":8192,"message":"Creation of dynamic property Kirki_Field_Image::$label is deprecated","file":"C:\\xampp\\htdocs\\demo\\wp-content\\themes\\bizberg\\inc\\plugins\\kirki\\core\\class-kirki-field.php","line":291}
+
